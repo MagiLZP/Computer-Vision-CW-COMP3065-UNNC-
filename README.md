@@ -1,4 +1,4 @@
-# Computer-Vision-CW-COMP3065-UNNC-
+# Computer-Vision-CW-COMP3065-UNNC-2024-5-6th
 Task: a) Panorama generation from videos (author: Zepei Luo, 20321548, scyzl9@nottingham.edu.cn)
 
 Key features & functionalities
