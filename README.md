@@ -17,16 +17,12 @@
 - **gen_panorama.py:** Contains the functions to implement panorama generation.
 - **utils.py:** Contains some utility functions.
 
-## Installation
+## Installation and Run
 
-Before running the code, install the necessary packages:
+Before running the code, install the necessary packages, then run main_new.py
 
 ```bash
 pip install opencv-python
 pip install imutils
 
-## Run
-
-Execute the following command:
-```bash
 python main_new.py
